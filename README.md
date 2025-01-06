@@ -27,3 +27,9 @@ $ export PING_LISTEN_PORT=9090
 
 $ ./run.sh
 ```
+
+## API routes
+
+- `GET /ping` : returns a JSON response with the headers of the incoming request.
+
+- Autre routes : `404 Not Found`. 
