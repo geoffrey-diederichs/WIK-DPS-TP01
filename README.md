@@ -24,4 +24,6 @@ Pour spécifier un port au choix :
 
 ```console
 $ export PING_LISTEN_PORT=9090
+
+$ ./run.sh
 ```
