@@ -1,6 +1,6 @@
 # Headers API
 
-Cette application est une API simple développée en TypeScript avec le module natif http de Node.js. 
+Cette application est une API simple développée en TypeScript avec le module natif `http` de `Node.js`.
 
 Elle expose un endpoint `/ping` qui retourne les headers de la requête HTTP au format JSON lorsqu'une requête GET est effectuée. Toute autre requête retourne une réponse vide avec un code HTTP 404.
 
